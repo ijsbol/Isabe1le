@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scrumpyy&label=Profile%20views&color=0e75b6&style=flat" alt="scrumpyy" /> </p>
 
-- 🔭 I'm the Founder & (only) Devloper for [DiscordBlogs](https://discordblogs.com)
+- 🔭 I'm the Founder & (only) Developer for [DiscordBlogs](https://discordblogs.com)
 
 - ⚡ I have created a moderately successful Discord bot [ScrumpBot](https://scrumpy.gg/bot)
 
