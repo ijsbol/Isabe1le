@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scrumpyy&label=Profile%20views&color=0e75b6&style=flat" alt="scrumpyy" /> <a href="https://scrumpy.gg/r/shivoo" target="_blank"><img draggable="false" style="width:119xp;height:20xp;" src="https://discord.com/api/guilds/721528373377105970/embed.png"></a> </p>
 
+<img draggable="false" src="https://i.imgur.com/zAbG7In.png"></a>
+
 - 🔭 I'm the Founder & (only) Developer for [DiscordBlogs](https://discordblogs.com)
 
 - ⚡ I have created a moderately successful Discord bot [ScrumpBot](https://scrumpy.gg/bot)
