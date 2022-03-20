@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scrumpyy&" alt="scrumpyy" /></p>
 
-<p>[![Discord Presence](https://lanyard.cnrad.dev/api/676867934504747008)](https://discord.com/users/676867934504747008) </p>
+<p><img src="https://lanyard.cnrad.dev/api/676867934504747008"></p>
