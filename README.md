@@ -23,5 +23,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Scrumpyy&theme=blueberry&count_private=true&hide_border=true&line_height=25"></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=scrumpyy&theme=blueberry&count_private=true&hide_border=true&line_height=25" alt="scrumpyy" /></p>
-
-<p align="center"><img src="https://lanyard.cnrad.dev/api/676867934504747008"></p>
+<p align="center">
+<img src="https://lanyard.cnrad.dev/api/676867934504747008">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scrumpyy&theme=blueberry&count_private=true&hide_border=true&line_height=25" >
+</p>
