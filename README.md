@@ -13,7 +13,7 @@
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/scrumpygg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scrumpygg" height="30" width="40" /></a>
+<a href="https://twitter.com/1sabelledev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scrumpygg" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/scrumpygames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="scrumpygames" height="30" width="40" /></a>
 <a href="https://discord.gg/VqR7FaEkUr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VqR7FaEkUr" height="30" width="40" /></a>
 </p>
