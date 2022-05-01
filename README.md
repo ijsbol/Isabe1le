@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Scrumpy</h1>
+<h1 align="center">Hi 👋, I'm Isabelle</h1>
 <h3 align="center">I plan to go into software development & eventually become an astronaut. (it gets confusing)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scrumpyy&label=Profile%20views&color=0e75b6&style=flat" alt="scrumpyy" /> <a href="https://scrumpy.gg/r/shivoo" target="_blank"><img draggable="false" style="width:119xp;height:20xp;" src="https://discord.com/api/guilds/721528373377105970/embed.png"></a> </p>
