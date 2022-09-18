@@ -5,11 +5,10 @@
 
 <img draggable="false" src="https://i.imgur.com/oTBC8BY.png"></a>
 <p align="center">
-  <a href="https://discordblogs.com" target="blank"><img align="center" src="https://i.imgur.com/HlHba9G.png" height="50" width="50" /></a>
   <a href="https://scrumpbot.com" target="blank"><img align="center" src="https://i.imgur.com/NoMrkGj.png" height="50" width="50" /></a>
-  <a href="https://scrumpy.gg/nofishing" target="blank"><img align="center" src="https://i.imgur.com/kplVAKd.png" height="50" width="50" /></a>
-  <a href="https://scrumpy.gg/element" target="blank"><img align="center" src="https://i.imgur.com/KCXJ4yk.png" height="50" width="50" /></a>
-  <a href="https://scrumpy.gg/acrobot" target="blank"><img align="center" src="https://i.imgur.com/tGXLN4F.png" height="50" width="50" /></a>
+  <a href="https://1sabelle.dev/nofishing" target="blank"><img align="center" src="https://i.imgur.com/kplVAKd.png" height="50" width="50" /></a>
+  <a href="https://1sabelle.dev/element" target="blank"><img align="center" src="https://i.imgur.com/KCXJ4yk.png" height="50" width="50" /></a>
+  <a href="https://crbn.cfd" target="blank"><img align="center" src="https://crbn.cfd/assets/images/carbon-logo.png" height="50" width="50" /></a>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
