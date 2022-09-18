@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isabelle</h1>
 <h3 align="center">I plan to go into software development & eventually become an astronaut. (it gets confusing)</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scrumpyy&label=Profile%20views&color=0e75b6&style=flat" alt="scrumpyy" /> <a href="https://scrumpy.gg/r/shivoo" target="_blank"><img draggable="false" style="width:119xp;height:20xp;" src="https://discord.com/api/guilds/721528373377105970/embed.png"></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=scrumpyy&label=Profile%20views&color=0e75b6&style=flat" alt="scrumpyy" /> <a href="https://1sabelle.dev/r/discord" target="_blank"><img draggable="false" style="width:119xp;height:20xp;" src="https://discord.com/api/guilds/721528373377105970/embed.png"></a> </p>
 
 <img draggable="false" src="https://i.imgur.com/oTBC8BY.png"></a>
 <p align="center">
@@ -12,9 +12,9 @@
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/1sabelledev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scrumpygg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/scrumpygames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="scrumpygames" height="30" width="40" /></a>
-<a href="https://discord.gg/VqR7FaEkUr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VqR7FaEkUr" height="30" width="40" /></a>
+<a href="https://1sabelle.dev/r/twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scrumpygg" height="30" width="40" /></a>
+<a href="https://1sabelle.dev/r/youtube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="scrumpygames" height="30" width="40" /></a>
+<a href="https://1sabelle.dev/r/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VqR7FaEkUr" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
