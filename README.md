@@ -5,14 +5,16 @@
 
 <img draggable="false" src="https://i.imgur.com/oTBC8BY.png"></a>
 <p align="center">
-  <a href="https://scrumpbot.com" target="blank"><img align="center" src="https://i.imgur.com/NoMrkGj.png" height="50" width="50" /></a>
-  <a href="https://1sabelle.dev/nofishing" target="blank"><img align="center" src="https://i.imgur.com/kplVAKd.png" height="50" width="50" /></a>
-  <a href="https://1sabelle.dev/element" target="blank"><img align="center" src="https://i.imgur.com/KCXJ4yk.png" height="50" width="50" /></a>
-  <a href="https://crbn.cfd" target="blank"><img align="center" src="https://crbn.cfd/assets/images/carbon-logo.png" height="50" width="50" /></a>
+  <a href="https://scrumpbot.com" target="_blank"><img align="center" src="https://i.imgur.com/NoMrkGj.png" height="50" width="50" /></a>
+  <a href="https://1sabelle.dev/nofishing" target="_blank"><img align="center" src="https://i.imgur.com/kplVAKd.png" height="50" width="50" /></a>
+  <a href="https://1sabelle.dev/element" target="_blank"><img align="center" src="https://i.imgur.com/KCXJ4yk.png" height="50" width="50" /></a>
+  <a href="https://crbn.cfd" target="_blank"><img align="center" src="https://i.imgur.com/aW3uyXU.png" height="50" width="50" /></a>
+  <a href="https://1sabelle.dev/r/weezer/github" target="_blank"><img align="center" src="https://i.imgur.com/veAyp5O.png" height="50" width="50" /></a>
+  <a href="https://1sabelle.dev/r/at-someone/github" target="_blank"><img align="center" src="https://i.imgur.com/3sbfvuO.png" height="50" width="50" /></a>
+  <a href="https://1sabelle.dev/r/slowermode" target="_blank"><img align="center" src="https://i.imgur.com/3sbfvuO.png" height="50" width="50" /></a>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://1sabelle.dev/r/twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scrumpygg" height="30" width="40" /></a>
 <a href="https://1sabelle.dev/r/youtube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="scrumpygames" height="30" width="40" /></a>
 <a href="https://1sabelle.dev/r/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VqR7FaEkUr" height="30" width="40" /></a>
 </p>
