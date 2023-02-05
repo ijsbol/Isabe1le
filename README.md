@@ -67,5 +67,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?hide_border=true&title_color=35e5e8&icon_color=35e5e8&text_color=35e5e8&bg_color=0d1117&show_icons=true&count_private=true&username=Scrumpyy">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Scrumpyy&theme=dark&hide_border=true)](https://git.io/streak-stats)
   <img src="https://lanyard.cnrad.dev/api/676867934504747008?idleMessage=Probably%20programming%20something">
 </p>
