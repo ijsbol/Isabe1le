@@ -68,5 +68,5 @@
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?hide_border=true&title_color=35e5e8&icon_color=35e5e8&text_color=35e5e8&bg_color=0d1117&show_icons=true&count_private=true&username=Scrumpyy">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scrumpyy&layout=compact&hide_border=true&title_color=35e5e8&icon_color=35e5e8&text_color=35e5e8&bg_color=0d1117&show_icons=true&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Scrumpyy&theme=holi-theme&hide_border=true&ring=EB5454&background=EB545400">
+  <img src="https://streak-stats.demolab.com/?user=Scrumpyy&theme=holi-theme&hide_border=true&ring=EB5454&background=EB545400">
 </p>
