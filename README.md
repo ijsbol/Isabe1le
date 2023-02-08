@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Isabelle</h1>
-<h3 align="center">I plan to go into software development & eventually become an astronaut. (it gets confusing)</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋%2C+I'm+Isabelle!;I+want+to+go+to+space.;Even+though+I+study+Computer+Science;It+gets+confusing.&center=true&width=750&height=80&color=35e5e8&vCenter=true&pause=500&size=30">
+</p>
+
+<img draggable="false" src="https://i.imgur.com/oTBC8BY.png"></a>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=scrumpyy&label=Profile%20views&color=0e75b6&style=flat" alt="scrumpyy"/>
   <a href="https://1sabelle.dev/r/discord" target="_blank">
     <img draggable="false" style="width:119xp;height:20xp;" src="https://discord.com/api/guilds/721528373377105970/embed.png">
-  </a> 
+  </a>
 </p>
-
-<img draggable="false" src="https://i.imgur.com/oTBC8BY.png"></a>
 
 <h3 align="center">My projects:</h3>
 <p align="center">
