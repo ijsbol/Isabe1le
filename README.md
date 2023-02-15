@@ -1,7 +1,7 @@
 <img draggable="false" src="https://i.imgur.com/oTBC8BY.png"></a>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=scrumpyy&label=Profile%20views&color=C02E52&style=pixel" alt="scrumpyy"/>
-  <a href="https://1sabelle.dev/r/discord" target="_blank">
+  <a href="https://uwu.gal/r/discord" target="_blank">
     <img draggable="false" style="width:119xp;height:20xp;" src="https://discord.com/api/guilds/721528373377105970/embed.png">
   </a>
 </p>
