@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://scrumpbot.com" target="_blank">
     <img align="center" src="https://i.imgur.com/NoMrkGj.png" height="50" width="50" />
-  </a> <a href="https://1sabelle.dev/nofishing" target="_blank">
+  </a> <a href="https://uwu.gal/nofishing" target="_blank">
     <img align="center" src="https://i.imgur.com/kplVAKd.png" height="50" width="50" />
   </a> <a href="https://1sabelle.dev/element" target="_blank">
     <img align="center" src="https://i.imgur.com/KCXJ4yk.png" height="50" width="50" />
