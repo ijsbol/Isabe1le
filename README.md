@@ -43,7 +43,7 @@
   <img src="https://shields.io/badge/Python-5/5-C02E52?logo=python&style=for-the-badge&labelColor=ffffff&logoColor=C02E52">
   <img src="https://shields.io/badge/Figma-3/5-C02E52?logo=figma&style=for-the-badge&labelColor=ffffff&logoColor=C02E52">
   <img src="https://shields.io/badge/Flask-3/5-C02E52?logo=flask&style=for-the-badge&labelColor=ffffff&logoColor=C02E52">
-  <img src="https://shields.io/badge/HTML-3/5-C02E52?logo=html&style=for-the-badge&labelColor=ffffff&logoColor=C02E52">
+  <img src="https://shields.io/badge/HTML-3/5-C02E52?logo=html5&style=for-the-badge&labelColor=ffffff&logoColor=C02E52">
   <br>
   <img src="https://shields.io/badge/MySQL-4/5-C02E52?logo=mysql&style=for-the-badge&labelColor=ffffff&logoColor=C02E52">
   <img src="https://shields.io/badge/Nginx-3/5-C02E52?logo=nginx&style=for-the-badge&labelColor=ffffff&logoColor=C02E52">
@@ -52,7 +52,7 @@
   <br>
   <img src="https://shields.io/badge/SQLite-4/5-C02E52?logo=sqlite&style=for-the-badge&labelColor=ffffff&logoColor=C02E52">
   <img src="https://shields.io/badge/Java-2/5-C02E52?logo=java&style=for-the-badge&labelColor=ffffff&logoColor=C02E52">
-  <img src="https://shields.io/badge/JavaScript-2/5-C02E52?logo=javascripttb&style=for-the-badge&labelColor=ffffff&logoColor=C02E52">
+  <img src="https://shields.io/badge/JavaScript-2/5-C02E52?logo=javascript&style=for-the-badge&labelColor=ffffff&logoColor=C02E52">
 
 </p>
 
