@@ -26,7 +26,7 @@
     <img align="center" src="https://i.imgur.com/3sbfvuO.png" height="50" width="50" />
   </a> <a href="https://1sabelle.dev/r/slowermode" target="_blank">
     <img align="center" src="https://i.imgur.com/rMuFtlH.png" height="50" width="50" />
-  </a> <a href="https://github.com/Scrumpyy/pygoelocate" target="_blank">
+  </a> <a href="https://github.com/Scrumpyy/pygeolocate" target="_blank">
     <img align="center" src="https://i.imgur.com/g3Euo2M.png" height="50" width="50" />
   </a>
 </p>
