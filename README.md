@@ -16,15 +16,15 @@
     <img align="center" src="https://i.imgur.com/NoMrkGj.png" height="50" width="50" />
   </a> <a href="https://uwu.gal/nofishing" target="_blank">
     <img align="center" src="https://i.imgur.com/kplVAKd.png" height="50" width="50" />
-  </a> <a href="https://1sabelle.dev/element" target="_blank">
+  </a> <a href="https://uwu.gal/element" target="_blank">
     <img align="center" src="https://i.imgur.com/KCXJ4yk.png" height="50" width="50" />
   </a> <a href="https://crbn.cfd" target="_blank">
     <img align="center" src="https://i.imgur.com/aW3uyXU.png" height="50" width="50" />
-  </a> <a href="https://1sabelle.dev/r/weezer/github" target="_blank">
+  </a> <a href="https://uwu.gal/r/weezer/github" target="_blank">
     <img align="center" src="https://i.imgur.com/veAyp5O.png" height="50" width="50" />
-  </a> <a href="https://1sabelle.dev/r/at-someone/github" target="_blank">
+  </a> <a href="https://uwu.gal/r/at-someone/github" target="_blank">
     <img align="center" src="https://i.imgur.com/3sbfvuO.png" height="50" width="50" />
-  </a> <a href="https://1sabelle.dev/r/slowermode" target="_blank">
+  </a> <a href="https://uwu.gal/r/slowermode" target="_blank">
     <img align="center" src="https://i.imgur.com/rMuFtlH.png" height="50" width="50" />
   </a> <a href="https://github.com/Scrumpyy/pygeolocate" target="_blank">
     <img align="center" src="https://i.imgur.com/g3Euo2M.png" height="50" width="50" />
@@ -32,10 +32,10 @@
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://1sabelle.dev/r/youtube"  target="_blank">
+  <a href="https://uwu.gal/r/youtube"  target="_blank">
     <img src="https://shields.io/badge/YouTube-Subscribe-C02E52?logo=youtube&style=for-the-badge&labelColor=ffffff&logoColor=C02E52">
   </a>
-  <a href="https://1sabelle.dev/r/discord"  target="_blank">
+  <a href="https://uwu.gal/r/discord"  target="_blank">
     <img src="https://shields.io/badge/Discord-Join_and_DM_me!-C02E52?logo=discord&style=for-the-badge&labelColor=ffffff&logoColor=C02E52">
   </a>
 </p>
