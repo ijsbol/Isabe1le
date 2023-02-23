@@ -22,6 +22,8 @@
     <img align="center" src="https://i.imgur.com/aW3uyXU.png" height="50" width="50" />
   </a> <a href="https://uwu.gal/r/weezer/github" target="_blank">
     <img align="center" src="https://i.imgur.com/veAyp5O.png" height="50" width="50" />
+  </a> <a href="https://github.com/Scrumpyy/Isassembly" target="_blank">
+    <img align="center" src="https://i.imgur.com/hn5Ntro.png" height="50" width="50" />
   </a> <a href="https://uwu.gal/r/at-someone/github" target="_blank">
     <img align="center" src="https://i.imgur.com/3sbfvuO.png" height="50" width="50" />
   </a> <a href="https://uwu.gal/r/slowermode" target="_blank">
