@@ -57,7 +57,6 @@
   <img src="https://shields.io/badge/SQLite-4/5-C02E52?logo=sqlite&style=for-the-badge&labelColor=ffffff&logoColor=C02E52">
   <img src="https://shields.io/badge/Java-2/5-C02E52?logo=java&style=for-the-badge&labelColor=ffffff&logoColor=C02E52">
   <img src="https://shields.io/badge/JavaScript-2/5-C02E52?logo=javascript&style=for-the-badge&labelColor=ffffff&logoColor=C02E52">
-
 </p>
 
 <p align="center">
