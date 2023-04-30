@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋%2C+I'm+Isabelle!;I+want+to+go+to+space.;Even+though+I+study+Computer+Science;It+gets+confusing.&center=true&width=750&height=80&color=5d96f0&vCenter=true&pause=5&size=30">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋%2C+I'm+Isabelle!;I'm+going+to+space.;Even+though+I+study+Computer+Science;It+gets+confusing.;I'll+get+there+though+:)&center=true&width=750&height=80&color=5d96f0&vCenter=true&pause=5&size=30">
 </p>
 
 <h3 align="center">My projects:</h3>
