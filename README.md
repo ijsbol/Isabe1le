@@ -22,13 +22,13 @@
     <img align="center" src="https://i.imgur.com/aW3uyXU.png" height="50" width="50" />
   </a> <a href="https://uwu.gal/r/weezer/github" target="_blank">
     <img align="center" src="https://i.imgur.com/veAyp5O.png" height="50" width="50" />
-  </a> <a href="https://github.com/Scrumpyy/Isassembly" target="_blank">
+  </a> <a href="https://github.com/Isabe1le/Isassembly" target="_blank">
     <img align="center" src="https://i.imgur.com/hn5Ntro.png" height="50" width="50" />
   </a> <a href="https://uwu.gal/r/at-someone/github" target="_blank">
     <img align="center" src="https://i.imgur.com/3sbfvuO.png" height="50" width="50" />
   </a> <a href="https://uwu.gal/r/slowermode" target="_blank">
     <img align="center" src="https://i.imgur.com/rMuFtlH.png" height="50" width="50" />
-  </a> <a href="https://github.com/Scrumpyy/pygeolocate" target="_blank">
+  </a> <a href="https://github.com/Isabe1le/pygeolocate" target="_blank">
     <img align="center" src="https://i.imgur.com/g3Euo2M.png" height="50" width="50" />
   </a>
 </p>
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?hide_border=true&title_color=ffffff&icon_color=5d96f0&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&username=Scrumpyy&ring_color=5d96f0">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scrumpyy&layout=compact&hide_border=true&title_color=ffffff&icon_color=5d96f0&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true">
-  <img src="https://streak-stats.demolab.com?user=Scrumpyy&hide_border=true&background=EBEBEB00&stroke=5d96f0&ring=5d96f0&fire=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=5d96f0">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?hide_border=true&title_color=ffffff&icon_color=5d96f0&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&username=Isabe1le&ring_color=5d96f0">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabe1le&layout=compact&hide_border=true&title_color=ffffff&icon_color=5d96f0&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true">
+  <img src="https://streak-stats.demolab.com?user=Isabe1le&hide_border=true&background=EBEBEB00&stroke=5d96f0&ring=5d96f0&fire=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&sideNums=5d96f0">
 </p>
