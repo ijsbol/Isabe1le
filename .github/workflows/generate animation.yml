@@ -16,10 +16,9 @@ jobs:
         uses: Platane/snk/svg-only@v3.2.0
         with:
           github_user_name: ${{ github.repository_owner }}
-          color_dots: 171b21 2a1352 462878 704faa b994fa
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_dots=#171b21,#2a1352,#462878,#704faa,#b994fa
           
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
