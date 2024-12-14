@@ -13,7 +13,7 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@v3.2.0
         with:
           github_user_name: ${{ github.repository_owner }}
           color_dots: 171b21 2a1352 462878 704faa b994fa
